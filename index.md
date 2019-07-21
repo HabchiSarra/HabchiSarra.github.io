@@ -45,10 +45,3 @@ Email: sarra.habchi[at]inria.fr or habchi.sarrah[at]gmail.com
 ```
 
 
-## Lab software
-
-- [ELAT](https://mvallet91.github.io/ELAT/) is a browser-based edX logfile analysis tool that turns edX logfiles into an easy to query database, all within the confines of the local browser. The lead developer is Manuel Valle Torre.
-
-## Grants
-- TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
-
