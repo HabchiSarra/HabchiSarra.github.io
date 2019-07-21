@@ -5,8 +5,8 @@ subtitle: Software Engineering, Inria
 ---
 
 ## News
-- Our paper *On the Survival of Android Code Smells in the Wild* with Romain Rouvoy and Naouel Moha is accapeted as a full paper at **MobileSoft 2019** ([pdf](https://hal.inria.fr/hal-02059097/document)). 
-- Our paper *The rise of Android code smells: who is to blame?* with Naouel Moha and Romain Rouvoy is accapeted as a full paper at **MSR 2019** ([pdf](https://hal.inria.fr/hal-02054788/document)). 
+- Our paper *On the Survival of Android Code Smells in the Wild* with Romain Rouvoy and Naouel Moha is accepted as a full paper at **MOBILESoft 2019** ([PDF Preprint](https://hal.inria.fr/hal-02059097/document)). 
+- Our paper *The rise of Android code smells: who is to blame?* with Naouel Moha and Romain Rouvoy is accepted as a full paper at **MSR 2019** ([PDF Preprint](https://hal.inria.fr/hal-02054788/document)). 
 
 <p>
  <a class="twitter-timeline"
